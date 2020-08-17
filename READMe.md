@@ -1,7 +1,7 @@
 ### Hi there, I'm Rana  👋
 
 
-## I'm  Developer, and Teacher!
+## I'm  Front End Developer!
 
 - 🔭 I’m currently working on Learning React
 - 🌱 I’m currently learning everything 🤣
