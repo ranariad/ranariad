@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Learning React
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Proffienal Junior Front End Developer 
+- 🥅  Goals: Proffienal Junior Front End Developer 
 - ⚡ Fun fact: I am a Chocolete Lover 
 
 
